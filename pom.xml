@@ -9,11 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.example</groupId>
-    <artifactId>esco</artifactId>
+    <groupId>com.btb.rdf</groupId>
+    <artifactId>rdf4j-esco</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>esco</name>
-    <description>esco</description>
+    <name>rdf4j-esco</name>
+    <description>rdf4j-esco</description>
 
     <properties>
         <java.version>17</java.version>
